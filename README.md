@@ -1,3 +1,5 @@
+<span style="color:red;">The purpose of this repository is to showcase some of the projects that I have created at Xave. This is not the official Xave repository.</span>
+
 # Staker
 ## Purpose
 Stake synthetic tokens (sXVC) or wrapped tokens (wXVC) and get them swapped for XVC plus a 25% reward.
